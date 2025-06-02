@@ -1,6 +1,44 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>AI startup advisors project, backend development with FastAPI, and data scraping with Selenium & BeautifulSoup.<br><br>🕺 I’m looking to collaborate on<br>Web development (React, Tailwind CSS), backend development (FastAPI, Django), and game development (Unity 3D).<br><br>🤝 I’m looking for help with<br>Advanced machine learning, ETL models, and optimizing GitHub for SEO.<br><br>🌱 I’m currently learning<br>Machine learning, SEO, PostgreSQL CRUD operations, and improving my React & backend skills.<br><br>💬 Ask me about<br>Web development, backend development, data scraping, and game development.<br><br>⚡ Fun fact<br>I love exploring new tech stacks and experimenting with automation! 🚀<br><br>This keeps it professional yet engaging. Let me know if you want any tweaks! 😊
 
+## 💻 Backend Developer | AI & Machine Learning Enthusiast | LLM Integrator | PostgreSQL Expert
+
+I'm a backend developer with a strong focus on building scalable systems, designing clean APIs, and integrating AI into real-world applications. My core expertise lies in **Python**, **PostgreSQL**, and **SQL**, with a growing focus on **LLMs**, **AI workflows**, and **machine learning pipelines**.
+
+---
+
+### 🛠️ Core Skills & Interests
+
+- ✅ **Backend Development** using Python (FastAPI, Flask)
+- ✅ **LLM-based Applications** with OpenAI, Gemini, and LangChain
+- ✅ **Database Design & Optimization** with PostgreSQL and SQLAlchemy
+- ✅ **AI/ML Integration** in production-level projects
+- ✅ **Web Scraping & ETL Pipelines** using BeautifulSoup, Selenium, and Pandas
+- ✅ **Performance Tuning** via indexing and `EXPLAIN ANALYZE`
+- ✅ **API Design** with RESTful standards and async support
+- ✅ **Automation & Scripting** for data and DevOps tasks
+
+---
+
+### 🚀 Recent Work Highlights
+
+- Built FastAPI-based microservices with JWT auth and async database access
+- Developed intelligent chatbots using OpenAI and Gemini models
+- Implemented data scraping + cleaning pipelines storing in JSON/SQL
+- Applied `CREATE INDEX` strategies for query optimization and performance gains
+
+---
+
+### 🤝 Let’s Connect
+
+I'm passionate about combining backend engineering with intelligent systems to create impactful tools.  
+**Always learning, always building.**
+
+Feel free to connect or collaborate!
+
+
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sonu.khan729/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hanzalamueed29/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanzala.mueed729@gmail.com) 
